@@ -1,0 +1,8 @@
+# personal notes and the original download (data/data.csv is the copy in the repo)
+notes.txt
+*.zip
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
